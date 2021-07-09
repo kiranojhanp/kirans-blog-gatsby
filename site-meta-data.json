@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "ThunderBlog",
+  "siteUrl": "https://vibrant-mccarthy-23a3ff.netlify.app/",
+  "description": "Hello, I am Kiran. Welcome to my Blog.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Welcome to ThunderBlog by Kiran",
+    "description": "**Hello, I am Kiran Ojha**\n\nI am a highly self motivated developer who spends most of his time building applications and learning latest technologies. I am a javascript developer. I am working with global course on demand provider https://enthu.com."
   }
 }
